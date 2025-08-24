@@ -6,7 +6,7 @@ git clone <repository-url>
 
 cd <project-directory>
 
-npm i --legacy-peer-deps OR npm i
+npm i --legacy-peer-deps
 
 npm run dev
 
