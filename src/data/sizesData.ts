@@ -1,0 +1,1 @@
+export const sizesData: string[] = ['15ml', '30ml', '50ml', '100ml'];

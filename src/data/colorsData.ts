@@ -1,0 +1,1 @@
+export const colorsData: string[] = ['Natural', 'Pink', 'Beige', 'Clear'];
